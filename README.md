@@ -10,6 +10,8 @@ This is a [Model Context Protocol](https://modelcontextprotocol.io) server that 
 
 ## Tools
 
+### Ordering
+
 | Tool | Description |
 |------|-------------|
 | `view_menu` | View the full Chipotle menu |
@@ -18,6 +20,19 @@ This is a [Model Context Protocol](https://modelcontextprotocol.io) server that 
 | `check_order_status` | Check the status of a placed order |
 | `get_nutrition_facts` | Get (totally real) nutrition facts for any item |
 | `customize_order` | Make special requests. Results may vary. |
+
+### Advanced Analytics
+
+| Tool | Description |
+|------|-------------|
+| `optimize_guac_roi` | Determines if guacamole is economically rational given your financial and emotional state |
+| `burrito_integrity_check` | Predicts structural failure probability using proprietary tortilla stress models |
+| `line_time_forecast` | ML-powered burrito congestion prediction engine |
+| `post_gym_macro_mode` | Automatically configures a nutritionally optimized burrito based on your workout |
+| `chipotle_personality_test` | Scientifically determines what kind of Chipotle eater you are |
+| `salsa_risk_assessment` | Predicts the gastrointestinal consequences of your salsa choices |
+| `bowl_vs_burrito_decision_engine` | AI-powered format selection. Accounts for shirt color, risk tolerance, and meetings. |
+| `daily_chipotle_limit_guard` | Protects users from excessive Chipotle consumption. A wellness tool. |
 
 ## Prompts
 
