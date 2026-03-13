@@ -1,0 +1,24 @@
+{
+  "name": "mcp-otle",
+  "version": "1.0.0",
+  "description": "MCP server for ordering Chipotle. Guac-as-a-Service for AI agents.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mcp-otle": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:35083/git/YoshiSaurus/mcp-otle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^4.3.6"
+  }
+}
